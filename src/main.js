@@ -1,5 +1,4 @@
-import { a, b, c } from "./utils";
+import { a, b } from "./utils";
 
 a();
 b();
-c();
